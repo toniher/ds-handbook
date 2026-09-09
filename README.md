@@ -47,5 +47,3 @@ To cite:
 ## Acknowledgements
 
 The handbook's visual identity, custom layouts, and Liquid extensions were iterated on in collaboration with [Claude Code](https://claude.com/claude-code) – Anthropic's CLI for Claude – alongside human design and editorial judgement.
-
-
